@@ -5,5 +5,10 @@ public class Git {
         System.out.println("hello git....");
         System.out.println("hello git....");
         System.out.println("hello git....");
+
+
+        for (int i = 0;i<11;i++){
+            System.out.println(i);
+        }
     }
 }
